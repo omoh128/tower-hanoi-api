@@ -45,3 +45,5 @@ To run the tests, execute the following command:
 
 phpunit
 (These tests verify basic functionality of the API.)
+
+composer run test
