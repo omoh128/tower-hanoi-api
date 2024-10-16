@@ -9,7 +9,7 @@ Setup
 
 #Clone the repository:
 
-git clone <your-repo-url>
+git clone https://github.com/omoh128/tower-hanoi-api
 cd tower-hanoi-api
 
 #Install dependencies:
